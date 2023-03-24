@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<mountains>
+  <mountain>
+    <name>Mount Everest</name>
+    <height>8848</height>
+    <location>Himalayas</location>
+    <country>Nepal</country>
+    <subpeaks>
+      <peak>Lhotse</peak>
+      <peak>Nuptse</peak>
+      <peak>Changtse</peak>
+    </subpeaks>
+  </mountain>
+  <mountain>
+    <name>K2</name>
+    <height>8611</height>
+    <location>Karakoram</location>
+    <country>Pakistan</country>
+    <subpeaks>
+      <peak>Chogori</peak>
+      <peak>Lhotse</peak>
+      <peak>Nuptse</peak>
+    </subpeaks>
+  </mountain>
+   <mountain>
+    <name>Kangchenjunga</name>
+    <height>8,586 m</height>
+    <location>Himalayas</location>
+    <country>Nepal/India</country>
+    <subpeaks>
+      <peak>Kangchenjunga West</peak>
+      <peak>Kangchenjunga Central</peak>
+      <peak>Kangchenjunga South</peak>
+    </subpeaks>
+  </mountain>
+  <mountain>
+    <name>Makalu</name>
+    <height>8,485 m</height>
+    <location>Himalayas</location>
+    <country>Nepal</country>
+    <subpeaks>
+      <peak>Kangchungtse</peak>
+      <peak>Chamlang</peak>
+      <peak>Baruntse</peak>
+    </subpeaks>
+  </mountain>
+  <mountain>
+    <name>Cho Oyu</name>
+    <height>8,188 m</height>
+    <location>Himalayas</location>
+    <country>Nepal/Tibet</country>
+    <subpeaks>
+      <peak>Nangpai Gosum</peak>
+      <peak>Lhakpa Ri</peak>
+      <peak>Sharpu</peak>
+    </subpeaks>
+  </mountain>
+</mountains>
